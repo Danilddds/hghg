@@ -1,0 +1,34 @@
+
+body{
+	background-image: url(https://krot.info/uploads/posts/2022-02/1644832420_14-krot-info-p-foni-dlya-saitov-14.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 0;
+}
+h1{
+	color:white;
+	width:10px;
+	margin-left:635px;
+}
+header{
+	background: linear-gradient(gray,black);
+}
+a:hover{
+	color:white;
+	text-decoration: none;
+}
+li{
+	display: inline;
+	margin:30px;
+	text-decoration: none;
+	margin-top:0;
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 20px;
+}
+a{
+	color:gray;
+	text-decoration: none;
+}
